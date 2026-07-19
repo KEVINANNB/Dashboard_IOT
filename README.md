@@ -51,16 +51,10 @@ Esto significa que cualquier cambio guardado en `stylesheet/styles.css` se refle
 
 ## Cómo ejecutarlo localmente
 
-No requiere instalación. Basta con abrir `index.html` en el navegador, o servirlo con cualquier servidor estático (por ejemplo, la extensión "Live Server" de VS Code).
+No requiere instalación. Basta con abrir `index.html` en el navegador, o servirlo con cualquier servidor estático (por ejemplo, la extensión "Live Server" de VS Code) o entrar a https://suarito29-cmyk.github.io/Dashboard_IOT/
 
-## Publicación en GitHub Pages
 
-1. Crear un repositorio nuevo en GitHub (público).
-2. Subir `index.html` y `README.md` en la raíz del repositorio.
-3. Crear una carpeta llamada `stylesheet` y subir `styles.css` dentro de ella.
-4. Ir a **Settings → Pages**, y en "Source" seleccionar la rama `main` y la carpeta `/ (root)`.
-5. Guardar. GitHub generará la URL pública en unos minutos (`https://<tu-usuario>.github.io/<repositorio>/`).
 
 ## Autor
 
-Estudiante de Ingeniería en Telemática - UTEQ
+Kevin Efrain Quiñonez Mendoza, Estudiante de Ingeniería en Telemática - UTEQ
